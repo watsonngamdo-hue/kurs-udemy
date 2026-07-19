@@ -1,0 +1,5 @@
+2026-06-29 15:41:29,817 - DEBUG -  die Funktion wurde gut ausgefuhrt
+2026-06-29 15:41:29,817 - INFO -  Allgemeine Infortionsmitteilung
+2026-06-29 15:41:29,817 - WARNING - Achtung
+2026-06-29 15:41:29,817 - ERROR -  ein Fehler ist angekommen
+2026-06-29 15:41:29,817 - CRITICAL -  Kritischer Fehler
